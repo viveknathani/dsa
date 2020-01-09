@@ -12,7 +12,6 @@ public:
 
 treeNode* create(int value)
 {
-  int x;
   treeNode* n=new treeNode;
   n->data=value;
   n->left=n->right=NULL;

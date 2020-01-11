@@ -45,11 +45,12 @@ void inorder(treeNode *root)
 
 treeNode* findmin(treeNode *root)
 {
-  while(root->left!=NULL)
+  treeNode *current=root;
+  while(current->left!=NULL)
   {
-    root=root->left;
+    current=current->left;
   }
-  return root;
+  return current;
 }
 
 treeNode* Delete(treeNode *root, int key)

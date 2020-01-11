@@ -43,6 +43,61 @@ void inorder(treeNode *root)
   inorder(root->right);
 }
 
+treeNode* findmin(treeNode *root)
+{
+  while(root->left!=NULL)
+  {
+    root=root->left;
+  }
+  return root;
+}
+
+treeNode* Delete(treeNode *root, int key)
+ {
+   //base case
+   if(root==NULL) { return root; }
+
+   if(key<root->data)
+   {
+     root->left=Delete(root->left, key);
+   }
+
+   else if(key>root->data)
+   {
+     root->right=Delete(root->right, key);
+   }
+
+   else
+   {
+     if(root->left==NULL && root->right==NULL)
+     {
+       delete root;
+       root=NULL;
+     }
+
+     else if(root->left==NULL)
+     {
+       treeNode *temp=root;
+       root=root->right;
+       delete temp;
+     }
+
+     else if(root->right==NULL)
+     {
+       treeNode *temp=root;
+       root=root->left;
+       delete temp;
+     }
+     else
+     {
+       treeNode *temp=findmin(root->right);
+       root->data=temp->data;
+       root->right=Delete(root->right, temp->data);
+     }
+   }
+   return root;
+ }
+
 int main()
 {
   treeNode *root=NULL;
@@ -52,6 +107,9 @@ int main()
   root=Insert(root, 1);
   root=Insert(root, 78);
   root=Insert(root, 11);
+  inorder(root);
+  cout<<endl;
+  root=Delete(root, 78);
   inorder(root);
   cout<<endl;
   return 0;

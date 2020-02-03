@@ -74,6 +74,7 @@ one traversal.
 65. Anagram problem.
 
 #linked list
+
 66. Make following methods for a singly linked list and then for a doubly linked list.
     findLength(), search(element), delete(element), returnNthNode(n)
     countOccurence(n), maxAndMin()
@@ -109,6 +110,7 @@ one traversal.
 96. Why is Quicksort preferred for arrays and Mergesort for linked lists?
 
 #stack
+
 97. Implement stack.
 98. Reverse a string using stack.
 99. Check if the expression has valid or balanced parenthesis or not.
@@ -135,6 +137,7 @@ conversions using stack.
 119. Minimum number of bracket reversals needed to make an expression balanced.
 
 #queue
+
 120. Implement queue using stack.
 121. LRU Cache implementation.
 122. Efficiently implement 'k' queues in an array.
@@ -155,6 +158,7 @@ conversions using stack.
 137. Queue based approach or first non-repeating character in a stream.
 
 #heap
+
 138. Kth largest element in an array.
 139. Kth smallest and largest element in an unsorted array.
 140. Check if a binary tree is a heap.
@@ -177,6 +181,7 @@ conversions using stack.
 157. Smallest range in 'k' lists.
 
 #tree
+
 158. Make a tree with the given functions: Insertion of Node, Deletion of Node, InorderTraversal (Recursive and Iterative), Preorder Traversal (Recursive and Iterative), Postorder Traversal (Recursive and Iterative), Level Order Traversal, Reverse Level Order traversal, Searching of Value, Height of tree, Diameter of Tree, Mirror of Tree, Check tree is balanced or not, Find minimum value in tree, Find maximum value in tree
 159. Make a bst with the given functions: Insertion into BST, Deletion from BST, Level order print, Traversal(inorder, preorder and postorder), Searching a value in BST, Check if is BST or not, Find inorder successor and inorder predecessor, Print all root node to leaf node pathsoFind min and max value in BST
 160. Print top, bottom, left and right view of a binary tree.

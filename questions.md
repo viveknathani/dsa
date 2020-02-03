@@ -209,3 +209,73 @@ conversions using stack.
 182. Kth ancestor of a node in a binary tree.
 183. Find all duplicate subtrees in a binary tree.
 184. Tree isomorphism problem.
+185. Construct bst from inorder and preorder traversal.
+186. Construct bst from inorder and postorder traversal.
+187. Construct bst from preorder traversal.
+188. Convert binary tree to bst.
+189. Convert normal bst to balanced bst.
+190. Merge two bst.
+191. Find lowest common ancestor of bst.
+192. Find kth largest element in a bst.
+193. Count pairs from two bsts whose sum is equal to given value 'x'.
+194. Find the median of bst in O(n) time and O(1) space.
+195. Count bst nodes that lie in the given range.
+196. Replace every element with the least greater element on its right.
+197. Given 'n' appointments, find the conflicting appointments.
+198. Populate inorder successor of all nodes.
+199. Check dead in a bst.
+200. Check if preorder is valid or not.
+201. Evaluate expression tree.
+202. AVL tree: insertion and deletion.
+203. RB tree: insertion and deletion.
+204. B tree and B+ tree: go through text.
+
+#graph
+
+205. Make a graph class with the following methods:
+(i) addNewEdge(source, destination, distance)
+(ii) printAdjacencyList()
+(iii) bfsTraversal()
+(iv) dfsTraversal()
+206. Detect cycle in a directed graph using bfs and dfs algorithm.
+207. Detect cycle in an undirected graph using bfs and dfs algorithm.
+208. Write the method to find the shortest path between two nodes using the bfs algorithm.
+209. Write the method to find the shortest path between two nodes using the dijkstra algorithm.
+210. Minimum steps to reach target by a knight.
+211. Minimum number of jumps to reach end of given array.
+212. Find the number of islands.
+213. Find bridge ina graph.
+214. Implement topological sorting algorithm.
+215. Given a sorted dictionary of alien language, find the order of characters.
+216. Flood fill algorithm.
+217. Rat in a maze.
+218. N-queen problem.
+219. What is minimum spanning tree?
+220. Implement kruskal's algorithm.
+221. Implement prim's algorithm.
+222. Total number of spanning tree in a graph.
+223. Minimum product spanning tree.
+224. Implement bellman ford algorithm.
+225. Implement Floyd Warshall algorithm.
+226. Travelling salesman problem.
+227. Graph colouring problem.
+228. Snake and ladders problem.
+229. Count strongly connected algorithm. (kosaraju algo)
+230. Check whether a graph is a bipartite or not.
+231. Clone a graph.
+232. Detect negative cycle in a graph.
+233. Longest path in a directed acyclic graph.
+234. Minimum cost to connect all cities.
+235. Find if there is a path of more than 'k' length from a source.
+236. M-colouring problem.
+237. Hamiltonian cycle.
+238. Permutations of numbers such that sum of 2 consecutive numbers is a perfect square.
+239. Minimum edges to reverse to make path from a source to a destination.
+240. Pathsto travel each nodes using each edge (Seven Bridges)
+241. Kth heaviest adjacent node in a graph where each vertex has weight.
+242. Ford-fulkerson algorithm for maximum flow problem.
+243. Vertex cover problem.
+244. Chinese postman or route inspection.
+245. Number of triangles in a directed or undirected graph.
+246. Minimise the cashflow among a given set of friends who have borrowed money from each other.
+247. Two clique problem.

@@ -279,3 +279,24 @@ conversions using stack.
 245. Number of triangles in a directed or undirected graph.
 246. Minimise the cashflow among a given set of friends who have borrowed money from each other.
 247. Two clique problem.
+
+#set and map
+
+248. Implement a class Map which has the following methods in O(1) time complexity.
+249. Find the only repetitive number between 1 to n-1.
+250. Difference between set, multiset, unordered_set, unordered_multiset.
+251. Find the only element that appears 'b' times.
+252. Remove duplicate or repeated words from string.
+253. Find total number of distinct years from a string.
+254. Equally divide into 2 sets such that one set has maximum distinct elements.
+255. Check if a pair with a given product exists in a linked list.
+256. Count of pairs between 2 arrays such that the sums are distinct.
+257. Kth missing element in an unsorted array.
+258. Number of strings that satisfy the given condition.
+259. Number of ways to choose an integer such that there are exactly “k” elements greater than it in the given array.
+260. Number of unique pairs in an array.
+261. Given an array arr[] and an integer K. The task is to find the size of the maximum sub-set such that every
+pair from the sub-set (X, Y) is of the form Y != (X * K) where X < Y.
+262. Given N strings of equal lengths. The strings contain only digits (1 to 9). The task is to count the number of strings that have an index position such that the digit at this index position is greater than the digits at same index position of all the other strings.
+263. Check if the array has an element which is equal to product of remaining elements.
+264. Find if arrayhas an element whose value is half of array sum.

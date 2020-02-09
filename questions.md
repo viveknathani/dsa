@@ -300,3 +300,43 @@ pair from the sub-set (X, Y) is of the form Y != (X * K) where X < Y.
 262. Given N strings of equal lengths. The strings contain only digits (1 to 9). The task is to count the number of strings that have an index position such that the digit at this index position is greater than the digits at same index position of all the other strings.
 263. Check if the array has an element which is equal to product of remaining elements.
 264. Find if arrayhas an element whose value is half of array sum.
+
+#search
+
+265. Today, Monk went for a walk in a garden. There are many trees in the garden and each tree has an English alphabet on it. While Monk was walking, he noticed that all trees with vowels on it are not in good state. He decided to take care of them. So, he asked you to tell him the count of such trees in the garden.
+Note : The following letters are vowels: 'A', 'E', 'I', 'O', 'U' ,'a','e','i','o' and 'u'.
+266. There is a frog initially placed at the origin of the coordinate plane. In exactly 1 second, the frog can either move up 1 unit, move right 1 unit, or stay still. In other words, from position (x, y), the frog can spend 1 second to move to:
+(x+1, y)
+(x, y+1)
+(x, y)
+After T seconds, a villager who sees the frog reports that the frog lies on or inside a square of side-length  with coordinates (x,y), (x+s, y), (x,y+s), (x+s, y+s). Calculate how many points with integer coordinates on or inside this square could be the frog's position after exactly T seconds.
+267. Given a List of N number a1,a2,a3........an, You have to find smallest number from the List that is repeated in the List exactly K number of times.
+268. https://www.hackerearth.com/practice/algorithms/searching/binary-search/practiceproblems/algorithm/bishu-and-soldiers/
+269. https://www.hackerearth.com/practice/algorithms/searching/binary-search/practiceproblems/algorithm/substring-in-blocks-335081c2/
+270. https://www.hackerearth.com/practice/algorithms/searching/binary-search/practiceproblems/algorithm/friends-49/
+ https://www.hackerearth.com/practice/algorithms/searching/binary-search/practiceproblems/algorithm/rasta-and-kheshtak/
+271. https://www.hackerearth.com/practice/algorithms/searching/binary-search/practiceproblems/algorithm/kth-smallest-number-again-2/
+272. [Aggressive Cows] (https://www.spoj.com/problems/AGGRCOW/)
+273. [Book Allocation Problem] (https://www.geeksforgeeks.org/allocate-minimumnumber-pages/)
+274. [EKO SPOJ] (https://www.spoj.com/problems/EKO/)
+275. [Job Scheduling Algo] (https://www.geeksforgeeks.org/weighted-job-scheduling-logn-time/)
+276. [Missing Number in AP] (https://www.geeksforgeeks.org/find-missing-numberarithmetic-progression/)
+277. [Smallest number with atleast n trailing zeroes in factorial] (https://practice.geeksforgeeks.org/problems/smallest-factorial-number/0)
+278. [Painters Partition Problem] (https://www.geeksforgeeks.org/painters-partitionproblem-set-2/)
+279. [ROTI/PRATA SPOJ] (https://www.spoj.com/problems/PRATA/)
+280. [Double Helix SPOJ] (https://www.spoj.com/problems/ANARC05B/)
+281. [Subset Sums] (https://www.spoj.com/problems/SUBSUMS/)
+
+#sort
+
+282. [Bubble Sort 1] (https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practiceproblems/algorithm/save-patients/)
+283. [Bubble Sort 2] (https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practiceproblems/algorithm/benny-and-segments-marcheasy/)
+284. [Insertion Sort 1] (https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/practiceproblems/algorithm/monk-and-nice-strings-3/)
+285. [Selection Sort 1] (https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/practiceproblems/algorithm/old-keypad-in-a-foreign-land-24/)
+286. [Merge Sort 1] (https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practiceproblems/algorithm/i-think-its-easy/)
+287. [Merge Sort 2] (https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practiceproblems/algorithm/shil-and-lucky-string-1/)
+288. [Merge Sort 3] (https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/practiceproblems/algorithm/fredo-and-sums-1-605205cd/)
+289. [Quick Sort 1] (https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practiceproblems/algorithm/one-sized-game/)
+290. [Counting Sort 1] (https://www.hackerearth.com/practice/algorithms/sorting/counting-sort/practiceproblems/algorithm/finding-pairs-4/)
+291. [Radix Sort 1] (https://www.hackerearth.com/practice/algorithms/sorting/radix-sort/practiceproblems/algorithm/monk-and-sorting-algorithm/)
+292. [Heap Sort] (https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practiceproblems/algorithm/divide-apples/)

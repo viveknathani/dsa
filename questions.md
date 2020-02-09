@@ -321,7 +321,7 @@ After T seconds, a villager who sees the frog reports that the frog lies on or i
 274. [EKO SPOJ](https://www.spoj.com/problems/EKO/)
 275. [Job Scheduling Algo](https://www.geeksforgeeks.org/weighted-job-scheduling-logn-time/)
 276. [Missing Number in AP](https://www.geeksforgeeks.org/find-missing-numberarithmetic-progression/)
-277. [Smallest number with atleast n trailing zeroes in factorial] (https://practice.geeksforgeeks.org/problems/smallest-factorial-number/0)
+277. [Smallest number with atleast n trailing zeroes in factorial](https://practice.geeksforgeeks.org/problems/smallest-factorial-number/0)
 278. [Painters Partition Problem](https://www.geeksforgeeks.org/painters-partitionproblem-set-2/)
 279. [ROTI/PRATA SPOJ](https://www.spoj.com/problems/PRATA/)
 280. [Double Helix SPOJ](https://www.spoj.com/problems/ANARC05B/)

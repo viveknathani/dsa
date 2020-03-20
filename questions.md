@@ -32,45 +32,45 @@
 27. Minimum number of jumps to reach end.
 28. Find the two repetitive elements in a given array.
 29. Find a triplet that sum to a given value.
-31. Find the row with max number of 1's in a matrix.
-32. Find the median in a row wise sorted matrix.
-33. Print the matrix in a spiral manner.
-34. Find whether an array is a subset of an array.
-35. Implement two stacks in an array.
+30. Find the row with max number of 1's in a matrix.
+31. Find the median in a row wise sorted matrix.
+32. Print the matrix in a spiral manner.
+32. Find whether an array is a subset of an array.
+34. Implement two stacks in an array.
 
 #strings
 
-36. Check whether one string is rotation of another or not.
-37. Remove duplicate characters from a string.
-38. Check whether a string is a valid shuffle of two strings or not.
-39. Find the longest palindrome in a string.
-40. Find the longest recurring subsequence in a string.
-41. Print all the permutations of the given string.
-42. Split the binary string into two substrings with equal 0's and 1's.
-43. Rearrange characters in a string such that no two adjacent are same.
-44. Find the smallest window that contains all characters of the string itself.
-45. Number of substrings with count of each character as "k".
-46. Print the largest common subsequence between two strings.
-47. Word wrap problem.
-48. Generate all possible IP addresses from given string.
-49. Edit distance.
-50. Find the next greater number with same set of digits.
-51. Prefix to infix, prefix to postfix, postfix to prefix, postfix to infix conversions.
-52. Convert a sentence into its equivalent mobile numeric keypad sequence.
-53. Balanced paranthesis problem.
-54. Minimum number of swaps for bracket balancing.
-55. Minimum number of bracket reversals needed to make an expression balanced.
-56. Word break problem.
-57. Minimum rotations required to get the same string.
-58. Find the first repeated word in a string.
-59. Efficiently find first repeated character in a string without using any additional data structure
+35. Check whether one string is rotation of another or not.
+36. Remove duplicate characters from a string.
+37. Check whether a string is a valid shuffle of two strings or not.
+38. Find the longest palindrome in a string.
+39. Find the longest recurring subsequence in a string.
+40. Print all the permutations of the given string.
+41. Split the binary string into two substrings with equal 0's and 1's.
+42. Rearrange characters in a string such that no two adjacent are same.
+43. Find the smallest window that contains all characters of the string itself.
+44. Number of substrings with count of each character as "k".
+45. Print the largest common subsequence between two strings.
+46. Word wrap problem.
+47. Generate all possible IP addresses from given string.
+48. Edit distance.
+49. Find the next greater number with same set of digits.
+50. Prefix to infix, prefix to postfix, postfix to prefix, postfix to infix conversions.
+51. Convert a sentence into its equivalent mobile numeric keypad sequence.
+52. Balanced paranthesis problem.
+53. Minimum number of swaps for bracket balancing.
+54. Minimum number of bracket reversals needed to make an expression balanced.
+55. Word break problem.
+56. Minimum rotations required to get the same string.
+57. Find the first repeated word in a string.
+58. Efficiently find first repeated character in a string without using any additional data structure
 one traversal.
-60. Count all palindromic subsequence in a given string.
-61. Number of flips to make binary string alternate.
-62. Count number of given strings in a 2D character array.
-63. Search a word in a 2D grid of characters.
-64. Boyer Moore algorithm for pattern searching.
-65. Reverse each word in a given string.
+59. Count all palindromic subsequence in a given string.
+60. Number of flips to make binary string alternate.
+61. Count number of given strings in a 2D character array.
+62. Search a word in a 2D grid of characters.
+63. Boyer Moore algorithm for pattern searching.
+64. Reverse each word in a given string.
 65. Anagram problem.
 
 #linked list
